@@ -1,1 +1,1 @@
-# -ZTF_Grandma
+#  Grandma Process used to read the ZTF data 
